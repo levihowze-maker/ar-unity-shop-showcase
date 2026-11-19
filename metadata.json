@@ -1,0 +1,6 @@
+{
+  "name": "Unity Art Collective — Nairobi WebAR Commerce",
+  "description": "WebAR Virtual Try-On for East African upcycled fashion and Spatial 3D Room Visualization for Nairobi-manufactured bamboo furniture and sustainable materials, powered by shared marketplace checkout with M-PESA Paybill 000000 and Paystack.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
